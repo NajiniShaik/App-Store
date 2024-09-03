@@ -1,0 +1,13 @@
+.tab {
+  color: #7b8794;
+  font-size: 22px;
+  font-weight: 500;
+  font-family: 'Bree Serif';
+  border: none;
+  outline: none;
+}
+
+.active-tab {
+  color: #2563eb;
+  border-bottom: 2px solid #2563eb;
+}
